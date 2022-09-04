@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    color: #000;
+    font: 16px/20px  Arial, sans-serif ;
+    background-color: #fff;
+}
+.wrapper{
+    padding: 30px;
+}
+.heading{
+    font-size: 30px;
+    line-height: 36px;
+    color: #077676;
+    font-weight: 600;
+}
+.title{
+    font-size: 20px;
+    line-height: 26px;
+    color: #077676;
+    font-weight: 600;
+
+}
+.text{
+    opacity: 70%;
+    font-weight: 400;
+}
